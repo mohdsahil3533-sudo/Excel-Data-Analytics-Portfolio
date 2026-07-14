@@ -1,42 +1,49 @@
 # 📊 Excel Data Analytics Portfolio
 
-Welcome to my Microsoft Excel Data Analytics Portfolio!
+Welcome to my Microsoft Excel Data Analytics Portfolio.
 
-This repository contains my beginner-friendly Excel Data Analytics projects, where I analyze real-world datasets and build interactive dashboards using Microsoft Excel.
+This repository showcases my end-to-end Microsoft Excel Data Analytics projects, where I transform raw data into meaningful insights through data cleaning, analysis, visualization, and interactive dashboards.
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Mohd Sahil**, an aspiring Data Analyst passionate about transforming raw data into meaningful insights through data visualization and dashboard creation.
+Hi, I'm *Mohd Sahil*.
 
-## 🛠️ Tools Used
+I am an aspiring Data Analyst passionate about solving business problems using data. Currently, I am building real-world Microsoft Excel projects to strengthen my analytical and dashboard development skills.
 
+## 🛠️ Tools & Skills
+
+### Tool
 - Microsoft Excel
-- Pivot Tables
-- Pivot Charts
-- Excel Charts
-- Formulas
-- Conditional Formatting
-- Data Cleaning
-- Dashboard Design
 
-## 📂 Projects
-
-*All Excel projects will be added soon.*
-
-## 📈 Skills Demonstrated
-
+### Skills
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
-- Dashboard Development
-- KPI Design
+- Pivot Tables
+- Pivot Charts
+- Dashboard Design
+- KPI Development
 - Data Visualization
 - Business Insights
 - Reporting
 
-## 🎯 Goal
+## 📂 Portfolio Projects
 
-To continuously improve my data analytics skills by building real-world Excel projects before moving to SQL, Power BI and Python.
+| Project | Status |
+|---------|--------|
+| ✈️ Airlines Passenger Analytics Dashboard | ✅ Completed |
+| 🛒 Superstore Sales Dashboard | ✅ Completed |
+| 👥 HR Analytics Repot | ✅ Completed |
+| 💳 Bank Loan Approval Analytics Dashboard | ✅ Completed |
+| 📦 Supply Chain Analytics Dashboard | ✅ Completed |
 
-## 📬 Connect With Me
+## 🎯 Career Goal
 
-**LinkedIn:** https://www.linkedin.com/in/mohdsahil12?utm_source=share_via&utm_content=profile&utm_medium=member_android
+My goal is to become a Data Analyst by continuously building real-world projects and enhancing my analytical, visualization, and problem-solving skills.
+
+## 📬 Connect with Me
+
+**GitHub:** https://github.com/mohdsahil3533-sudo
+
+**LinkedIn:** https://www.linkedin.com/in/mohdsahil12
+
+⭐ Thank you for visiting my portfolio!
