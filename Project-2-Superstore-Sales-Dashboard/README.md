@@ -84,6 +84,22 @@ Analyze Superstore sales data to identify:
 - Data Visualization
 - Excel Analytics
 
+📊 Dashboard Preview
+
+![Superstore Sales Dashboard](Dashboard.png)
+
+📄 Project Documentation
+
+📥 **Download Project Documentation**
+
+[Documentation.pdf](Documentation.pdf)
+
+📑 Business Analysis
+
+📥 **Download Business Analysis**
+
+[Analysis.pdf](Analysis.pdf)
+
 📂 Files Included
 
 - 🖼️ Dashboard.png – Preview of the final dashboard
