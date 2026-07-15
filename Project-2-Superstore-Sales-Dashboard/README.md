@@ -84,10 +84,14 @@ Analyze Superstore sales data to identify:
 - Data Visualization
 - Excel Analytics
 
-📷 Dashboard Preview
+📂 Files Included
 
-
+- 🖼️ Dashboard.png – Preview of the final dashboard
+- 📑 Analysis – Business analysis, pivot tables, KPI calculations, and key insights
+- 📄 Documentation – Project objectives, methodology, dashboard explanation, and findings
 
 👤 Author
+
 Mohd Sahil
+
 Aspiring Data Analyst | Excel | Data Visualization | Business Analytics
