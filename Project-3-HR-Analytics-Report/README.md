@@ -69,10 +69,14 @@ The dashboard enables HR professionals to monitor employee attrition, identify w
 - Reassess salary structures for lower-income employees.
 - Optimize business travel policies to improve work-life balance.
 
+## 🖼️ Dashboard Preview
+
+- ![Dashboard Preview](Project-3-HR-Analytics-Report/Dashboard.png)
+
 ## 📁 Files Included
 
-- 📄 **Analysis and Documentation.pdf** – Complete project documentation and business insights
-- 🖼️ **Dashboard Preview.png** – Dashboard screenshot
+- 📄 [Documentation.pdf](Project-3-HR-Analytics-Report/Documentation.pdf)
+- 📈 [Insight Analysis.pdf](Project-3-HR-Analytics-Report/Insight%20Analysis.pdf)
 
 ## 📊 Dataset Information
 
