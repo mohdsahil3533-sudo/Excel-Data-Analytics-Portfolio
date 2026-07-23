@@ -75,8 +75,8 @@ The dashboard enables HR professionals to monitor employee attrition, identify w
 
 ## 📁 Files Included
 
-- 📄 [[HR Analytics Repor](Documentation.pdf)
-- 📈 [HR Analytics Repor](Insight20%Analysis.pdf)
+- 📄 [HR Analytics Report](Documentation.pdf)
+- 📈 [HR Analytics Report](Insight20%Analysis.pdf)
 
 ## 📊 Dataset Information
 
