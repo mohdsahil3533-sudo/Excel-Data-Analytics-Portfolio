@@ -71,12 +71,12 @@ The dashboard enables HR professionals to monitor employee attrition, identify w
 
 ## 🖼️ Dashboard Preview
 
-- ![Dashboard Preview](Project-3-HR-Analytics-Report/Dashboard.png)
+- ![HR Analytics Report](Dashboard.png)
 
 ## 📁 Files Included
 
-- 📄 [Documentation.pdf](Project-3-HR-Analytics-Report/Documentation.pdf)
-- 📈 [Insight Analysis.pdf](Project-3-HR-Analytics-Report/Insight%20Analysis.pdf)
+- 📄 [[HR Analytics Repor](Documentation.pdf)
+- 📈 [HR Analytics Repor](Insight20%Analysis.pdf)
 
 ## 📊 Dataset Information
 
