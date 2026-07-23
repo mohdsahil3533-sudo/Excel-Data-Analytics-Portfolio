@@ -84,10 +84,11 @@ The dataset includes:
 
 📂 Files Included
 
-- 📑 Analysis – KPI calculations, pivot tables, and business analysis
-- 📄 Documentation – Project objectives, methodology, and insights
-- 🖼️ Dashboard.png – Dashboard preview
-- 📘 README.md – Project overview and documentation
+## 📁 Files Included
+
+- 📄 [Bank Loan Analytics Dashboard](Documentation.pdf)
+- 📈 [Bank Loan Analytics Dashboard](Insight20%Analysis.pdf)
+
 
 🚀 Skills Demonstrated
 
